@@ -1,0 +1,1039 @@
+Scrape at 16-03-2020 13:02:12 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 16-03-2020 13:09:44 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 16-03-2020 13:21:29 successful with 106 records
+Scrape at 16-03-2020 18:11:07 successful with 97 records
+Scrape at 16-03-2020 22:34:17 successful with 97 records
+Scrape at 17-03-2020 03:20:37 successful with 102 records
+Scrape at 17-03-2020 07:49:06 successful with 105 records
+Scrape at 17-03-2020 12:26:01 successful with 105 records
+Scrape at 17-03-2020 17:27:45 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 17-03-2020 17:36:39 successful with 98 records
+Scrape at 17-03-2020 22:24:05 successful with 99 records
+Scrape at 18-03-2020 03:19:13 successful with 106 records
+Scrape at 18-03-2020 07:29:24 successful with 109 records
+Scrape at 18-03-2020 11:54:01 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 18-03-2020 12:19:13 successful with 113 records
+Scrape at 18-03-2020 17:25:09 successful with 109 records
+Scrape at 18-03-2020 22:05:10 successful with 112 records
+Scrape at 19-03-2020 02:39:45 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 19-03-2020 02:59:44 successful with 110 records
+Scrape at 19-03-2020 07:33:18 successful with 103 records
+Scrape at 19-03-2020 11:58:00 successful with 105 records
+Scrape at 19-03-2020 17:01:18 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 19-03-2020 17:15:53 successful with 104 records
+Scrape at 19-03-2020 22:14:37 successful with 102 records
+Scrape at 20-03-2020 02:57:04 successful with 100 records
+Scrape at 20-03-2020 07:42:44 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 20-03-2020 08:03:40 successful with 108 records
+Scrape at 20-03-2020 12:40:39 successful with 106 records
+Scrape at 20-03-2020 17:12:52 successful with 104 records
+Scrape at 20-03-2020 21:21:22 successful with 98 records
+Scrape at 21-03-2020 02:25:36 successful with 99 records
+Scrape at 21-03-2020 07:04:28 successful with 103 records
+Scrape at 21-03-2020 12:02:13 successful with 106 records
+Scrape at 21-03-2020 16:41:05 successful with 97 records
+Scrape at 21-03-2020 21:34:56 successful with 104 records
+Scrape at 22-03-2020 02:29:10 successful with 107 records
+Scrape at 22-03-2020 07:18:27 successful with 106 records
+Scrape at 22-03-2020 11:57:01 successful with 107 records
+Scrape at 22-03-2020 16:26:24 successful with 106 records
+Scrape at 22-03-2020 20:44:03 successful with 107 records
+Scrape at 23-03-2020 01:11:40 successful with 107 records
+Scrape at 23-03-2020 05:38:05 successful with 116 records
+Scrape at 23-03-2020 10:12:50 successful with 113 records
+Scrape at 23-03-2020 15:03:10 successful with 113 records
+Scrape at 23-03-2020 19:26:06 successful with 105 records
+Scrape at 23-03-2020 23:56:20 successful with 114 records
+Scrape at 24-03-2020 04:23:18 successful with 113 records
+Scrape at 24-03-2020 09:01:48 successful with 115 records
+Scrape at 24-03-2020 13:09:54 successful with 105 records
+Scrape at 24-03-2020 17:06:33 successful with 101 records
+Scrape at 24-03-2020 21:21:18 successful with 107 records
+Scrape at 25-03-2020 02:13:35 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 25-03-2020 02:35:37 successful with 114 records
+Scrape at 25-03-2020 06:47:44 successful with 116 records
+Scrape at 25-03-2020 11:02:15 successful with 112 records
+Scrape at 25-03-2020 15:59:09 successful with 103 records
+Scrape at 25-03-2020 20:56:59 successful with 106 records
+Scrape at 26-03-2020 01:38:37 successful with 107 records
+Scrape at 26-03-2020 06:14:38 successful with 107 records
+Scrape at 26-03-2020 11:00:38 successful with 109 records
+Scrape at 26-03-2020 15:17:49 successful with 109 records
+Scrape at 26-03-2020 20:12:56 successful with 108 records
+Scrape at 27-03-2020 00:44:52 successful with 121 records
+Scrape at 27-03-2020 05:19:21 successful with 119 records
+Scrape at 27-03-2020 09:29:59 successful with 122 records
+Scrape at 27-03-2020 14:29:02 successful with 112 records
+Scrape at 27-03-2020 19:27:04 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 27-03-2020 19:42:52 failed with Message: Reached error page: about:neterror?e=connectionFailure&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D1&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 27-03-2020 20:04:45 successful with 123 records
+Scrape at 28-03-2020 00:16:14 successful with 123 records
+Scrape at 28-03-2020 05:14:05 successful with 125 records
+Scrape at 28-03-2020 09:55:41 successful with 125 records
+Scrape at 28-03-2020 14:04:15 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D3&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 28-03-2020 14:12:14 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1896%26iPage%3D1&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 28-03-2020 14:36:54 successful with 120 records
+Scrape at 28-03-2020 19:39:56 successful with 122 records
+Scrape at 29-03-2020 00:21:04 successful with 122 records
+Scrape at 29-03-2020 04:59:09 successful with 123 records
+Scrape at 29-03-2020 09:07:57 successful with 126 records
+Scrape at 29-03-2020 14:12:02 successful with 117 records
+Scrape at 29-03-2020 18:21:50 successful with 113 records
+Scrape at 29-03-2020 22:51:28 successful with 114 records
+Scrape at 30-03-2020 03:00:10 successful with 118 records
+Scrape at 30-03-2020 07:47:28 successful with 117 records
+Scrape at 30-03-2020 12:23:00 successful with 110 records
+Scrape at 30-03-2020 16:52:01 successful with 110 records
+Scrape at 30-03-2020 21:11:42 successful with 111 records
+Scrape at 31-03-2020 01:37:26 successful with 106 records
+Scrape at 31-03-2020 06:30:04 successful with 108 records
+Scrape at 31-03-2020 11:16:00 successful with 107 records
+Scrape at 31-03-2020 15:53:43 successful with 100 records
+Scrape at 31-03-2020 20:57:24 successful with 103 records
+Scrape at 01-04-2020 01:36:11 successful with 114 records
+Scrape at 01-04-2020 05:46:47 successful with 115 records
+Scrape at 01-04-2020 10:03:27 successful with 110 records
+Scrape at 01-04-2020 14:32:00 successful with 112 records
+Scrape at 01-04-2020 19:19:55 successful with 102 records
+Scrape at 01-04-2020 23:28:04 successful with 104 records
+Scrape at 02-04-2020 04:21:30 successful with 110 records
+Scrape at 02-04-2020 09:09:51 successful with 106 records
+Scrape at 02-04-2020 14:06:13 successful with 106 records
+Scrape at 03-04-2020 09:00:39 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 03-04-2020 09:25:06 successful with 106 records
+Scrape at 03-04-2020 13:51:01 successful with 109 records
+Scrape at 03-04-2020 18:53:49 successful with 108 records
+Scrape at 03-04-2020 20:13:56 successful with 107 records
+Scrape at 04-04-2020 01:00:10 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 04-04-2020 01:13:21 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1896%26iPage%3D1&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 04-04-2020 01:25:07 successful with 114 records
+Scrape at 04-04-2020 05:32:13 successful with 119 records
+Scrape at 04-04-2020 10:32:02 successful with 119 records
+Scrape at 04-04-2020 15:11:13 successful with 112 records
+Scrape at 04-04-2020 19:55:07 successful with 112 records
+Scrape at 05-04-2020 00:35:29 successful with 118 records
+Scrape at 05-04-2020 05:05:19 successful with 120 records
+Scrape at 05-04-2020 09:49:15 successful with 117 records
+Scrape at 05-04-2020 14:12:15 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 05-04-2020 14:30:47 successful with 101 records
+Scrape at 05-04-2020 19:26:40 successful with 100 records
+Scrape at 05-04-2020 23:38:29 successful with 103 records
+Scrape at 06-04-2020 04:07:24 successful with 106 records
+Scrape at 06-04-2020 09:05:04 successful with 104 records
+Scrape at 06-04-2020 13:19:29 successful with 102 records
+Scrape at 06-04-2020 18:08:58 successful with 94 records
+Scrape at 06-04-2020 22:30:35 successful with 106 records
+Scrape at 07-04-2020 03:27:38 successful with 108 records
+Scrape at 07-04-2020 08:05:50 successful with 108 records
+Scrape at 07-04-2020 12:49:47 successful with 104 records
+Scrape at 07-04-2020 17:31:10 successful with 98 records
+Scrape at 07-04-2020 21:42:30 successful with 100 records
+Scrape at 08-04-2020 02:07:27 successful with 102 records
+Scrape at 08-04-2020 06:37:49 successful with 100 records
+Scrape at 08-04-2020 11:36:30 successful with 101 records
+Scrape at 08-04-2020 16:35:32 successful with 94 records
+Scrape at 08-04-2020 21:15:30 successful with 98 records
+Scrape at 09-04-2020 01:52:30 successful with 94 records
+Scrape at 09-04-2020 06:43:35 successful with 94 records
+Scrape at 09-04-2020 11:46:44 successful with 97 records
+Scrape at 09-04-2020 16:10:48 successful with 104 records
+Scrape at 09-04-2020 21:02:52 successful with 95 records
+Scrape at 10-04-2020 01:14:09 successful with 96 records
+Scrape at 10-04-2020 05:32:41 successful with 97 records
+Scrape at 10-04-2020 10:15:43 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1634%26iPage%3D1&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 10-04-2020 10:35:43 successful with 79 records
+Scrape at 10-04-2020 15:40:39 successful with 96 records
+Scrape at 10-04-2020 20:46:18 successful with 90 records
+Scrape at 11-04-2020 01:16:15 successful with 94 records
+Scrape at 11-04-2020 05:43:54 successful with 96 records
+Scrape at 11-04-2020 10:35:32 successful with 91 records
+Scrape at 11-04-2020 15:17:36 successful with 82 records
+Scrape at 11-04-2020 19:26:58 successful with 88 records
+Scrape at 11-04-2020 23:47:59 successful with 104 records
+Scrape at 12-04-2020 04:09:11 successful with 108 records
+Scrape at 12-04-2020 08:48:09 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D1&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 12-04-2020 09:12:13 successful with 104 records
+Scrape at 12-04-2020 14:03:54 successful with 101 records
+Scrape at 12-04-2020 18:46:20 successful with 95 records
+Scrape at 12-04-2020 23:26:15 successful with 113 records
+Scrape at 13-04-2020 04:04:44 successful with 79 records
+Scrape at 13-04-2020 08:36:04 successful with 111 records
+Scrape at 13-04-2020 12:56:36 successful with 108 records
+Scrape at 13-04-2020 17:06:14 successful with 109 records
+Scrape at 13-04-2020 22:12:18 successful with 108 records
+Scrape at 14-04-2020 03:06:26 successful with 111 records
+Scrape at 14-04-2020 07:17:16 successful with 111 records
+Scrape at 14-04-2020 11:56:39 successful with 115 records
+Scrape at 14-04-2020 16:09:21 successful with 103 records
+Scrape at 14-04-2020 20:48:06 successful with 109 records
+Scrape at 15-04-2020 01:30:29 successful with 106 records
+Scrape at 15-04-2020 06:23:15 successful with 110 records
+Scrape at 15-04-2020 11:17:48 successful with 104 records
+Scrape at 15-04-2020 15:56:56 successful with 98 records
+Scrape at 15-04-2020 20:42:15 successful with 98 records
+Scrape at 16-04-2020 01:09:11 successful with 98 records
+Scrape at 16-04-2020 05:49:43 successful with 100 records
+Scrape at 16-04-2020 10:15:22 successful with 98 records
+Scrape at 16-04-2020 15:04:43 successful with 84 records
+Scrape at 16-04-2020 20:02:48 successful with 98 records
+Scrape at 17-04-2020 00:30:26 successful with 98 records
+Scrape at 17-04-2020 05:12:47 successful with 98 records
+Scrape at 17-04-2020 09:29:49 successful with 92 records
+Scrape at 17-04-2020 14:25:04 successful with 100 records
+Scrape at 17-04-2020 19:13:51 successful with 100 records
+Scrape at 17-04-2020 23:37:44 successful with 95 records
+Scrape at 18-04-2020 04:30:18 successful with 94 records
+Scrape at 18-04-2020 09:22:26 successful with 94 records
+Scrape at 18-04-2020 14:27:34 successful with 92 records
+Scrape at 18-04-2020 19:05:14 successful with 88 records
+Scrape at 18-04-2020 23:58:25 successful with 93 records
+Scrape at 19-04-2020 04:18:18 successful with 89 records
+Scrape at 19-04-2020 09:19:13 successful with 97 records
+Scrape at 19-04-2020 14:06:53 successful with 95 records
+Scrape at 19-04-2020 18:38:28 successful with 92 records
+Scrape at 19-04-2020 23:42:06 successful with 94 records
+Scrape at 20-04-2020 04:21:43 successful with 92 records
+Scrape at 20-04-2020 08:31:49 successful with 94 records
+Scrape at 20-04-2020 13:03:23 successful with 91 records
+Scrape at 20-04-2020 17:15:12 successful with 93 records
+Scrape at 20-04-2020 22:05:48 successful with 93 records
+Scrape at 21-04-2020 02:28:22 successful with 90 records
+Scrape at 21-04-2020 07:26:29 successful with 90 records
+Scrape at 21-04-2020 12:22:08 successful with 88 records
+Scrape at 21-04-2020 16:33:45 successful with 84 records
+Scrape at 21-04-2020 21:01:36 successful with 81 records
+Scrape at 22-04-2020 01:58:44 successful with 86 records
+Scrape at 22-04-2020 06:39:34 successful with 86 records
+Scrape at 22-04-2020 11:32:36 successful with 85 records
+Scrape at 22-04-2020 15:38:31 successful with 80 records
+Scrape at 23-04-2020 10:52:07 successful with 78 records
+Scrape at 23-04-2020 15:36:40 successful with 66 records
+Scrape at 23-04-2020 15:52:32 successful with 69 records
+Scrape at 23-04-2020 19:58:49 successful with 73 records
+Scrape at 24-04-2020 00:21:20 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 24-04-2020 00:41:14 successful with 78 records
+Scrape at 24-04-2020 05:25:48 successful with 81 records
+Scrape at 24-04-2020 10:23:54 successful with 82 records
+Scrape at 24-04-2020 14:59:56 successful with 74 records
+Scrape at 24-04-2020 19:42:03 successful with 75 records
+Scrape at 25-04-2020 00:28:34 successful with 77 records
+Scrape at 25-04-2020 05:31:50 successful with 75 records
+Scrape at 25-04-2020 10:11:35 successful with 74 records
+Scrape at 25-04-2020 14:18:39 successful with 71 records
+Scrape at 25-04-2020 19:21:25 successful with 71 records
+Scrape at 26-04-2020 00:15:08 successful with 74 records
+Scrape at 26-04-2020 04:44:46 successful with 75 records
+Scrape at 26-04-2020 09:00:01 successful with 73 records
+Scrape at 26-04-2020 13:24:24 successful with 70 records
+Scrape at 26-04-2020 18:22:52 successful with 72 records
+Scrape at 26-04-2020 23:07:18 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 26-04-2020 23:17:49 successful with 80 records
+Scrape at 27-04-2020 04:13:45 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1634%26iPage%3D1&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 27-04-2020 04:19:46 successful with 78 records
+Scrape at 27-04-2020 08:53:55 successful with 78 records
+Scrape at 27-04-2020 13:15:09 successful with 72 records
+Scrape at 27-04-2020 18:05:28 successful with 72 records
+Scrape at 27-04-2020 23:07:56 successful with 75 records
+Scrape at 28-04-2020 03:44:06 successful with 77 records
+Scrape at 28-04-2020 08:48:00 successful with 76 records
+Scrape at 28-04-2020 12:55:59 successful with 66 records
+Scrape at 28-04-2020 17:04:13 successful with 71 records
+Scrape at 28-04-2020 22:03:17 successful with 79 records
+Scrape at 29-04-2020 03:07:40 successful with 81 records
+Scrape at 29-04-2020 07:35:17 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1634%26iPage%3D1&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 29-04-2020 07:50:15 successful with 84 records
+Scrape at 29-04-2020 11:59:25 successful with 76 records
+Scrape at 29-04-2020 16:28:10 successful with 69 records
+Scrape at 30-04-2020 00:47:33 successful with 81 records
+Scrape at 30-04-2020 05:22:39 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D1&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 30-04-2020 05:35:11 successful with 81 records
+Scrape at 30-04-2020 10:25:22 successful with 80 records
+Scrape at 30-04-2020 15:23:18 successful with 78 records
+Scrape at 30-04-2020 20:30:52 successful with 85 records
+Scrape at 01-05-2020 01:07:34 successful with 83 records
+Scrape at 01-05-2020 05:56:19 successful with 84 records
+Scrape at 01-05-2020 10:29:10 successful with 84 records
+Scrape at 01-05-2020 14:54:03 successful with 79 records
+Scrape at 01-05-2020 19:12:50 successful with 88 records
+Scrape at 02-05-2020 00:02:14 successful with 94 records
+Scrape at 02-05-2020 04:21:32 successful with 95 records
+Scrape at 02-05-2020 09:18:59 successful with 93 records
+Scrape at 02-05-2020 14:16:25 successful with 88 records
+Scrape at 02-05-2020 19:21:28 successful with 91 records
+Scrape at 02-05-2020 23:55:24 successful with 103 records
+Scrape at 03-05-2020 04:49:06 successful with 104 records
+Scrape at 03-05-2020 09:14:07 successful with 103 records
+Scrape at 03-05-2020 14:19:58 successful with 99 records
+Scrape at 03-05-2020 18:30:27 successful with 103 records
+Scrape at 03-05-2020 23:06:59 successful with 118 records
+Scrape at 04-05-2020 03:50:27 successful with 123 records
+Scrape at 04-05-2020 08:01:00 successful with 118 records
+Scrape at 04-05-2020 12:39:37 successful with 118 records
+Scrape at 04-05-2020 17:34:28 successful with 111 records
+Scrape at 04-05-2020 22:30:07 successful with 118 records
+Scrape at 05-05-2020 03:26:20 successful with 121 records
+Scrape at 05-05-2020 08:29:13 successful with 123 records
+Scrape at 05-05-2020 13:16:29 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1896%26iPage%3D0&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 05-05-2020 13:43:39 successful with 120 records
+Scrape at 05-05-2020 18:38:23 successful with 121 records
+Scrape at 05-05-2020 23:16:50 successful with 110 records
+Scrape at 06-05-2020 00:04:03 successful with 123 records
+Scrape at 06-05-2020 04:43:48 successful with 126 records
+Scrape at 06-05-2020 09:26:05 successful with 123 records
+Scrape at 06-05-2020 14:22:07 successful with 117 records
+Scrape at 06-05-2020 19:02:31 successful with 108 records
+Scrape at 06-05-2020 23:30:00 successful with 121 records
+Scrape at 07-05-2020 03:40:43 successful with 117 records
+Scrape at 07-05-2020 08:09:23 successful with 118 records
+Scrape at 07-05-2020 12:45:17 successful with 107 records
+Scrape at 07-05-2020 17:18:23 successful with 97 records
+Scrape at 07-05-2020 22:13:14 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D3&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 07-05-2020 22:34:26 successful with 104 records
+Scrape at 08-05-2020 02:56:52 successful with 103 records
+Scrape at 08-05-2020 07:24:27 successful with 105 records
+Scrape at 08-05-2020 11:33:55 successful with 102 records
+Scrape at 08-05-2020 15:48:47 successful with 97 records
+Scrape at 08-05-2020 19:58:16 successful with 95 records
+Scrape at 09-05-2020 00:52:50 successful with 99 records
+Scrape at 09-05-2020 05:41:00 successful with 98 records
+Scrape at 09-05-2020 10:28:38 successful with 97 records
+Scrape at 09-05-2020 14:43:45 successful with 90 records
+Scrape at 09-05-2020 19:31:07 successful with 95 records
+Scrape at 10-05-2020 00:16:31 successful with 104 records
+Scrape at 10-05-2020 04:37:48 successful with 105 records
+Scrape at 10-05-2020 09:25:02 successful with 103 records
+Scrape at 10-05-2020 14:23:16 successful with 98 records
+Scrape at 10-05-2020 18:55:27 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 10-05-2020 19:07:39 successful with 85 records
+Scrape at 10-05-2020 23:50:39 successful with 91 records
+Scrape at 11-05-2020 04:28:36 successful with 91 records
+Scrape at 11-05-2020 08:57:38 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D2&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 11-05-2020 09:14:11 successful with 88 records
+Scrape at 11-05-2020 13:55:11 successful with 87 records
+Scrape at 11-05-2020 18:57:32 successful with 88 records
+Scrape at 11-05-2020 23:32:44 successful with 93 records
+Scrape at 12-05-2020 04:26:52 successful with 93 records
+Scrape at 12-05-2020 08:53:00 successful with 90 records
+Scrape at 12-05-2020 13:28:11 successful with 91 records
+Scrape at 12-05-2020 18:33:41 successful with 86 records
+Scrape at 12-05-2020 23:13:46 successful with 96 records
+Scrape at 13-05-2020 03:41:27 successful with 90 records
+Scrape at 13-05-2020 07:50:36 successful with 101 records
+Scrape at 13-05-2020 12:33:33 successful with 89 records
+Scrape at 13-05-2020 17:35:45 successful with 81 records
+Scrape at 13-05-2020 22:20:56 successful with 86 records
+Scrape at 14-05-2020 02:31:13 successful with 89 records
+Scrape at 14-05-2020 07:08:05 successful with 89 records
+Scrape at 14-05-2020 12:15:45 successful with 87 records
+Scrape at 14-05-2020 16:35:27 successful with 83 records
+Scrape at 14-05-2020 21:01:05 successful with 12 records
+Scrape at 15-05-2020 01:39:30 successful with 92 records
+Scrape at 15-05-2020 05:55:07 successful with 91 records
+Scrape at 15-05-2020 10:12:03 successful with 86 records
+Scrape at 15-05-2020 14:30:09 successful with 82 records
+Scrape at 15-05-2020 19:09:38 successful with 85 records
+Scrape at 15-05-2020 23:41:26 successful with 88 records
+Scrape at 16-05-2020 04:04:22 successful with 88 records
+Scrape at 16-05-2020 08:37:35 successful with 87 records
+Scrape at 16-05-2020 13:09:42 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1634%26iPage%3D0&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 16-05-2020 13:18:50 successful with 83 records
+Scrape at 17-05-2020 20:13:10 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1819%26iPage%3D0&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 17-05-2020 20:34:15 successful with 90 records
+Scrape at 18-05-2020 00:48:12 successful with 96 records
+Scrape at 18-05-2020 05:47:02 successful with 95 records
+Scrape at 18-05-2020 10:45:03 successful with 94 records
+Scrape at 18-05-2020 15:14:23 successful with 93 records
+Scrape at 18-05-2020 15:46:19 successful with 16 records
+Scrape at 18-05-2020 19:26:00 successful with 93 records
+Scrape at 18-05-2020 19:57:52 successful with 92 records
+Scrape at 18-05-2020 23:44:54 successful with 91 records
+Scrape at 19-05-2020 00:54:53 successful with 92 records
+Scrape at 19-05-2020 04:36:13 successful with 95 records
+Scrape at 19-05-2020 05:41:26 successful with 95 records
+Scrape at 19-05-2020 09:22:55 successful with 95 records
+Scrape at 19-05-2020 10:40:42 successful with 89 records
+Scrape at 19-05-2020 14:22:59 successful with 88 records
+Scrape at 19-05-2020 15:20:29 successful with 88 records
+Scrape at 19-05-2020 18:52:08 successful with 89 records
+Scrape at 19-05-2020 19:43:09 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 19-05-2020 19:53:05 successful with 91 records
+Scrape at 19-05-2020 23:04:29 successful with 88 records
+Scrape at 20-05-2020 00:26:47 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1819%26iPage%3D0&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 20-05-2020 00:51:53 successful with 85 records
+Scrape at 20-05-2020 03:40:42 successful with 86 records
+Scrape at 20-05-2020 05:44:52 successful with 87 records
+Scrape at 20-05-2020 08:02:02 successful with 87 records
+Scrape at 20-05-2020 10:28:32 successful with 86 records
+Scrape at 20-05-2020 12:14:04 successful with 86 records
+Scrape at 20-05-2020 14:36:54 successful with 82 records
+Scrape at 20-05-2020 17:14:42 successful with 85 records
+Scrape at 20-05-2020 18:47:18 successful with 87 records
+Scrape at 20-05-2020 21:24:36 successful with 91 records
+Scrape at 20-05-2020 23:32:48 successful with 92 records
+Scrape at 21-05-2020 02:11:06 successful with 94 records
+Scrape at 21-05-2020 04:31:02 successful with 94 records
+Scrape at 21-05-2020 07:15:45 successful with 94 records
+Scrape at 21-05-2020 08:45:53 successful with 95 records
+Scrape at 21-05-2020 12:06:42 successful with 90 records
+Scrape at 21-05-2020 13:01:25 successful with 90 records
+Scrape at 21-05-2020 16:58:12 successful with 85 records
+Scrape at 21-05-2020 17:45:02 successful with 89 records
+Scrape at 21-05-2020 21:08:08 successful with 94 records
+Scrape at 21-05-2020 21:53:25 successful with 97 records
+Scrape at 22-05-2020 02:00:17 successful with 100 records
+Scrape at 22-05-2020 02:07:02 successful with 100 records
+Scrape at 22-05-2020 06:08:15 successful with 99 records
+Scrape at 22-05-2020 07:02:18 successful with 99 records
+Scrape at 22-05-2020 11:03:11 successful with 97 records
+Scrape at 22-05-2020 11:50:32 successful with 97 records
+Scrape at 22-05-2020 15:36:34 successful with 97 records
+Scrape at 22-05-2020 16:26:22 successful with 98 records
+Scrape at 22-05-2020 20:28:10 successful with 100 records
+Scrape at 22-05-2020 20:33:43 successful with 100 records
+Scrape at 23-05-2020 00:49:49 successful with 99 records
+Scrape at 23-05-2020 01:01:15 successful with 99 records
+Scrape at 23-05-2020 05:54:15 successful with 94 records
+Scrape at 23-05-2020 05:54:24 successful with 94 records
+Scrape at 23-05-2020 10:13:00 successful with 89 records
+Scrape at 23-05-2020 10:13:09 successful with 89 records
+Scrape at 23-05-2020 14:40:12 successful with 89 records
+Scrape at 23-05-2020 15:06:30 successful with 88 records
+Scrape at 23-05-2020 19:06:16 successful with 88 records
+Scrape at 23-05-2020 19:44:39 successful with 90 records
+Scrape at 23-05-2020 23:59:56 successful with 94 records
+Scrape at 24-05-2020 00:08:09 successful with 91 records
+Scrape at 24-05-2020 04:34:20 successful with 96 records
+Scrape at 24-05-2020 04:45:51 successful with 96 records
+Scrape at 24-05-2020 09:12:09 successful with 95 records
+Scrape at 24-05-2020 09:18:12 successful with 95 records
+Scrape at 24-05-2020 14:01:21 successful with 87 records
+Scrape at 24-05-2020 14:05:48 successful with 87 records
+Scrape at 24-05-2020 18:21:24 successful with 89 records
+Scrape at 24-05-2020 19:07:03 successful with 90 records
+Scrape at 24-05-2020 22:59:24 successful with 89 records
+Scrape at 24-05-2020 23:47:07 successful with 90 records
+Scrape at 25-05-2020 03:23:03 successful with 89 records
+Scrape at 25-05-2020 04:23:45 successful with 92 records
+Scrape at 25-05-2020 08:20:14 successful with 90 records
+Scrape at 25-05-2020 08:56:23 successful with 92 records
+Scrape at 25-05-2020 13:09:04 successful with 90 records
+Scrape at 25-05-2020 13:20:37 successful with 90 records
+Scrape at 25-05-2020 17:33:18 successful with 87 records
+Scrape at 25-05-2020 17:59:10 successful with 82 records
+Scrape at 25-05-2020 22:06:18 successful with 82 records
+Scrape at 25-05-2020 23:02:56 successful with 82 records
+Scrape at 26-05-2020 02:25:50 successful with 88 records
+Scrape at 26-05-2020 03:15:36 successful with 87 records
+Scrape at 26-05-2020 06:51:38 successful with 87 records
+Scrape at 26-05-2020 08:15:19 successful with 87 records
+Scrape at 26-05-2020 11:18:22 successful with 88 records
+Scrape at 26-05-2020 12:44:39 successful with 87 records
+Scrape at 26-05-2020 15:44:50 successful with 83 records
+Scrape at 26-05-2020 16:51:19 successful with 81 records
+Scrape at 26-05-2020 20:10:14 successful with 86 records
+Scrape at 26-05-2020 21:10:25 successful with 90 records
+Scrape at 27-05-2020 00:22:07 successful with 89 records
+Scrape at 27-05-2020 01:23:49 successful with 84 records
+Scrape at 27-05-2020 04:52:48 successful with 86 records
+Scrape at 27-05-2020 06:00:59 successful with 86 records
+Scrape at 27-05-2020 09:04:28 successful with 87 records
+Scrape at 27-05-2020 10:42:02 successful with 86 records
+Scrape at 27-05-2020 13:58:23 successful with 92 records
+Scrape at 27-05-2020 15:42:16 successful with 90 records
+Scrape at 27-05-2020 18:10:10 successful with 88 records
+Scrape at 27-05-2020 20:28:34 successful with 92 records
+Scrape at 27-05-2020 22:29:34 successful with 95 records
+Scrape at 28-05-2020 01:07:21 successful with 92 records
+Scrape at 28-05-2020 02:37:45 successful with 94 records
+Scrape at 28-05-2020 05:46:49 successful with 92 records
+Scrape at 28-05-2020 07:21:15 successful with 92 records
+Scrape at 28-05-2020 10:34:16 successful with 93 records
+Scrape at 28-05-2020 11:58:23 successful with 92 records
+Scrape at 28-05-2020 14:41:06 successful with 88 records
+Scrape at 28-05-2020 16:07:50 successful with 88 records
+Scrape at 28-05-2020 19:22:38 successful with 88 records
+Scrape at 28-05-2020 20:58:19 successful with 85 records
+Scrape at 29-05-2020 00:09:38 successful with 89 records
+Scrape at 29-05-2020 01:52:35 successful with 87 records
+Scrape at 29-05-2020 04:41:23 successful with 95 records
+Scrape at 29-05-2020 06:06:39 successful with 93 records
+Scrape at 29-05-2020 09:14:32 successful with 95 records
+Scrape at 29-05-2020 10:16:12 successful with 93 records
+Scrape at 29-05-2020 14:12:31 successful with 89 records
+Scrape at 29-05-2020 14:27:39 successful with 89 records
+Scrape at 29-05-2020 18:35:51 successful with 87 records
+Scrape at 29-05-2020 19:09:24 successful with 83 records
+Scrape at 29-05-2020 23:05:49 successful with 80 records
+Scrape at 29-05-2020 23:18:51 successful with 80 records
+Scrape at 30-05-2020 03:20:32 successful with 78 records
+Scrape at 30-05-2020 04:09:14 successful with 78 records
+Scrape at 30-05-2020 08:21:39 successful with 79 records
+Scrape at 30-05-2020 08:36:13 successful with 78 records
+Scrape at 30-05-2020 13:01:59 successful with 76 records
+Scrape at 30-05-2020 13:11:29 successful with 76 records
+Scrape at 30-05-2020 17:47:15 successful with 80 records
+Scrape at 30-05-2020 17:47:48 successful with 80 records
+Scrape at 30-05-2020 21:56:45 successful with 81 records
+Scrape at 30-05-2020 22:08:36 successful with 81 records
+Scrape at 31-05-2020 02:26:17 successful with 82 records
+Scrape at 31-05-2020 02:44:19 successful with 85 records
+Scrape at 31-05-2020 06:41:52 successful with 86 records
+Scrape at 31-05-2020 07:03:02 successful with 86 records
+Scrape at 31-05-2020 11:09:46 successful with 86 records
+Scrape at 31-05-2020 11:19:17 successful with 86 records
+Scrape at 31-05-2020 15:42:16 successful with 70 records
+Scrape at 31-05-2020 16:04:51 successful with 85 records
+Scrape at 31-05-2020 19:49:10 successful with 90 records
+Scrape at 31-05-2020 20:29:24 successful with 91 records
+Scrape at 01-06-2020 00:09:37 successful with 93 records
+Scrape at 01-06-2020 01:25:45 successful with 93 records
+Scrape at 01-06-2020 05:06:22 successful with 95 records
+Scrape at 01-06-2020 06:24:35 successful with 94 records
+Scrape at 01-06-2020 09:51:54 successful with 95 records
+Scrape at 01-06-2020 10:52:39 successful with 94 records
+Scrape at 01-06-2020 14:36:15 successful with 89 records
+Scrape at 01-06-2020 15:01:06 successful with 87 records
+Scrape at 01-06-2020 19:17:56 successful with 88 records
+Scrape at 01-06-2020 19:28:24 successful with 89 records
+Scrape at 01-06-2020 23:53:25 successful with 86 records
+Scrape at 02-06-2020 00:00:02 successful with 86 records
+Scrape at 02-06-2020 04:14:14 successful with 88 records
+Scrape at 02-06-2020 04:28:47 successful with 88 records
+Scrape at 02-06-2020 08:53:25 successful with 91 records
+Scrape at 02-06-2020 09:02:07 successful with 91 records
+Scrape at 02-06-2020 13:35:02 successful with 87 records
+Scrape at 02-06-2020 13:55:55 successful with 87 records
+Scrape at 02-06-2020 18:02:45 successful with 90 records
+Scrape at 02-06-2020 18:40:49 successful with 92 records
+Scrape at 02-06-2020 23:00:29 successful with 91 records
+Scrape at 02-06-2020 23:29:29 successful with 96 records
+Scrape at 03-06-2020 03:12:25 successful with 96 records
+Scrape at 03-06-2020 03:43:04 successful with 97 records
+Scrape at 03-06-2020 07:36:36 successful with 94 records
+Scrape at 03-06-2020 08:07:04 successful with 94 records
+Scrape at 03-06-2020 12:41:35 successful with 92 records
+Scrape at 03-06-2020 13:10:50 successful with 92 records
+Scrape at 03-06-2020 17:23:49 successful with 93 records
+Scrape at 03-06-2020 17:38:05 successful with 93 records
+Scrape at 03-06-2020 21:38:52 successful with 86 records
+Scrape at 05-06-2020 09:37:37 successful with 87 records
+Scrape at 05-06-2020 14:10:02 successful with 85 records
+Scrape at 05-06-2020 19:05:57 successful with 91 records
+Scrape at 05-06-2020 23:40:22 successful with 85 records
+Scrape at 06-06-2020 04:12:30 successful with 91 records
+Scrape at 06-06-2020 08:57:50 successful with 92 records
+Scrape at 06-06-2020 13:34:03 successful with 85 records
+Scrape at 06-06-2020 18:15:19 successful with 87 records
+Scrape at 06-06-2020 22:57:13 successful with 82 records
+Scrape at 07-06-2020 03:31:07 successful with 79 records
+Scrape at 07-06-2020 08:05:34 successful with 77 records
+Scrape at 07-06-2020 12:14:19 successful with 76 records
+Scrape at 07-06-2020 16:43:57 successful with 75 records
+Scrape at 07-06-2020 21:42:49 successful with 73 records
+Scrape at 08-06-2020 02:15:19 successful with 74 records
+Scrape at 08-06-2020 06:36:30 successful with 73 records
+Scrape at 08-06-2020 11:15:24 successful with 72 records
+Scrape at 08-06-2020 15:29:48 successful with 69 records
+Scrape at 08-06-2020 20:33:50 successful with 72 records
+Scrape at 09-06-2020 01:32:05 successful with 76 records
+Scrape at 09-06-2020 05:38:29 successful with 77 records
+Scrape at 09-06-2020 10:12:46 successful with 76 records
+Scrape at 09-06-2020 14:32:00 successful with 73 records
+Scrape at 09-06-2020 19:14:45 successful with 75 records
+Scrape at 10-06-2020 00:02:35 successful with 76 records
+Scrape at 10-06-2020 04:42:38 successful with 82 records
+Scrape at 10-06-2020 08:50:09 successful with 80 records
+Scrape at 10-06-2020 13:33:03 successful with 79 records
+Scrape at 10-06-2020 17:53:43 successful with 80 records
+Scrape at 10-06-2020 22:38:12 successful with 74 records
+Scrape at 11-06-2020 03:06:47 successful with 76 records
+Scrape at 11-06-2020 07:45:50 successful with 77 records
+Scrape at 11-06-2020 12:39:58 successful with 74 records
+Scrape at 11-06-2020 17:42:35 successful with 76 records
+Scrape at 11-06-2020 21:55:13 successful with 73 records
+Scrape at 12-06-2020 03:00:35 successful with 76 records
+Scrape at 12-06-2020 07:38:00 successful with 73 records
+Scrape at 12-06-2020 11:53:28 successful with 71 records
+Scrape at 12-06-2020 16:52:23 successful with 68 records
+Scrape at 12-06-2020 21:46:19 successful with 65 records
+Scrape at 13-06-2020 02:22:37 successful with 67 records
+Scrape at 13-06-2020 06:48:15 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1896%26iPage%3D0&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 13-06-2020 07:07:28 successful with 68 records
+Scrape at 13-06-2020 11:26:55 successful with 68 records
+Scrape at 13-06-2020 16:31:11 successful with 67 records
+Scrape at 13-06-2020 21:32:48 successful with 65 records
+Scrape at 14-06-2020 02:20:11 successful with 64 records
+Scrape at 14-06-2020 07:08:24 successful with 68 records
+Scrape at 14-06-2020 11:22:08 successful with 66 records
+Scrape at 14-06-2020 15:59:20 successful with 68 records
+Scrape at 14-06-2020 20:13:44 successful with 68 records
+Scrape at 15-06-2020 01:05:20 successful with 72 records
+Scrape at 15-06-2020 05:18:23 successful with 75 records
+Scrape at 15-06-2020 10:13:45 successful with 73 records
+Scrape at 15-06-2020 14:56:07 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.guru/%3FiFirstLevel%3D1634%26iPage%3D0&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.guru%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 15-06-2020 15:09:00 successful with 74 records
+Scrape at 15-06-2020 19:34:20 successful with 71 records
+Scrape at 15-06-2020 23:52:28 successful with 67 records
+Scrape at 16-06-2020 04:13:38 successful with 69 records
+Scrape at 16-06-2020 08:55:01 successful with 73 records
+Scrape at 16-06-2020 13:50:51 successful with 66 records
+Scrape at 16-06-2020 18:13:36 successful with 76 records
+Scrape at 16-06-2020 22:54:10 successful with 75 records
+Scrape at 17-06-2020 03:28:46 successful with 80 records
+Scrape at 17-06-2020 08:01:18 successful with 83 records
+Scrape at 17-06-2020 12:38:01 successful with 79 records
+Scrape at 17-06-2020 17:05:58 successful with 78 records
+Scrape at 17-06-2020 22:03:43 successful with 84 records
+Scrape at 18-06-2020 03:08:18 successful with 79 records
+Scrape at 18-06-2020 08:12:13 successful with 81 records
+Scrape at 18-06-2020 12:43:16 successful with 82 records
+Scrape at 18-06-2020 17:48:17 successful with 79 records
+Scrape at 18-06-2020 22:01:47 successful with 77 records
+Scrape at 19-06-2020 02:38:02 successful with 80 records
+Scrape at 19-06-2020 06:47:02 successful with 86 records
+Scrape at 19-06-2020 11:49:41 successful with 78 records
+Scrape at 19-06-2020 16:29:16 successful with 76 records
+Scrape at 19-06-2020 21:20:54 successful with 89 records
+Scrape at 20-06-2020 01:44:06 successful with 96 records
+Scrape at 20-06-2020 06:44:43 successful with 98 records
+Scrape at 20-06-2020 10:59:59 successful with 96 records
+Scrape at 20-06-2020 15:50:41 successful with 100 records
+Scrape at 20-06-2020 20:56:52 successful with 110 records
+Scrape at 21-06-2020 01:52:50 successful with 111 records
+Scrape at 21-06-2020 06:30:30 successful with 111 records
+Scrape at 21-06-2020 11:15:51 successful with 110 records
+Scrape at 21-06-2020 15:26:56 successful with 108 records
+Scrape at 21-06-2020 20:28:26 successful with 106 records
+Scrape at 22-06-2020 01:03:31 successful with 109 records
+Scrape at 22-06-2020 15:47:19 successful with 106 records
+Scrape at 22-06-2020 20:03:27 successful with 98 records
+Scrape at 23-06-2020 00:54:28 successful with 98 records
+Scrape at 23-06-2020 05:51:07 successful with 103 records
+Scrape at 23-06-2020 10:53:38 successful with 106 records
+Scrape at 23-06-2020 15:01:52 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 15:17:57 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D3&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 15:21:08 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D2&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 15:35:19 successful with 103 records
+Scrape at 23-06-2020 20:27:19 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D1&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 20:31:32 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D1&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 20:41:30 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 20:58:22 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 21:03:34 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 21:17:31 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 21:34:38 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 21:41:14 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 21:59:33 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 22:06:02 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 22:11:03 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 22:11:03 failed with max re-tries
+Scrape at 23-06-2020 22:29:17 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D2&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 22:40:52 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D3&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 23:00:33 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 23-06-2020 23:04:54 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D1&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 23:24:13 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 23:42:38 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 23-06-2020 23:57:32 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 00:03:48 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 00:04:36 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 00:21:06 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 00:23:13 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 00:23:13 failed with max re-tries
+Scrape at 24-06-2020 04:39:12 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 04:43:08 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 04:54:53 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 05:14:21 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D1&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 05:28:33 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D1&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 05:38:12 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 05:39:20 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 05:41:10 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 05:57:28 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D2&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 06:14:54 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 06:36:08 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D1&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 06:36:08 failed with max re-tries
+Scrape at 24-06-2020 09:32:30 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 09:36:28 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 09:37:04 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 10:26:53 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 10:34:43 failed with Message: Browsing context has been discarded
+
+Scrape at 24-06-2020 10:51:36 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D2&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 10:53:01 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 10:54:31 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 10:57:15 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.guru%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 24-06-2020 11:00:52 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 11:08:14 failed with Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//matanga.guru/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20matanga.guru.
+
+Scrape at 24-06-2020 11:21:58 successful with 106 records
+Scrape at 24-06-2020 16:28:52 successful with 109 records
+Scrape at 24-06-2020 20:48:30 successful with 110 records
+Scrape at 25-06-2020 01:50:35 successful with 112 records
+Scrape at 25-06-2020 06:04:09 successful with 113 records
+Scrape at 25-06-2020 10:53:41 successful with 112 records
+Scrape at 25-06-2020 15:32:56 successful with 114 records
+Scrape at 25-06-2020 20:05:53 successful with 112 records
+Scrape at 26-06-2020 00:33:55 successful with 107 records
+Scrape at 26-06-2020 05:23:18 successful with 108 records
+Scrape at 26-06-2020 10:29:48 successful with 107 records
+Scrape at 26-06-2020 14:42:53 successful with 107 records
+Scrape at 26-06-2020 19:12:54 successful with 107 records
+Scrape at 26-06-2020 23:45:27 successful with 107 records
+Scrape at 27-06-2020 04:33:00 successful with 106 records
+Scrape at 27-06-2020 09:30:48 successful with 103 records
+Scrape at 27-06-2020 14:10:21 successful with 99 records
+Scrape at 27-06-2020 19:06:36 successful with 91 records
+Scrape at 27-06-2020 23:33:58 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 27-06-2020 23:43:34 successful with 88 records
+Scrape at 28-06-2020 03:53:44 successful with 87 records
+Scrape at 28-06-2020 08:24:49 successful with 90 records
+Scrape at 28-06-2020 12:46:57 successful with 86 records
+Scrape at 28-06-2020 17:21:46 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 28-06-2020 17:42:29 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 28-06-2020 17:56:26 successful with 89 records
+Scrape at 28-06-2020 22:21:25 successful with 90 records
+Scrape at 29-06-2020 02:56:18 successful with 92 records
+Scrape at 29-06-2020 07:14:18 successful with 92 records
+Scrape at 29-06-2020 11:47:41 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 29-06-2020 11:58:53 successful with 89 records
+Scrape at 29-06-2020 16:14:34 successful with 92 records
+Scrape at 29-06-2020 20:43:02 successful with 100 records
+Scrape at 30-06-2020 00:56:48 successful with 96 records
+Scrape at 30-06-2020 05:59:15 successful with 92 records
+Scrape at 30-06-2020 11:05:32 successful with 93 records
+Scrape at 30-06-2020 15:17:21 successful with 94 records
+Scrape at 30-06-2020 19:50:46 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 30-06-2020 20:06:33 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 30-06-2020 20:27:31 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 30-06-2020 20:37:45 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 30-06-2020 20:54:26 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 30-06-2020 21:30:48 successful with 94 records
+Scrape at 01-07-2020 02:26:25 successful with 97 records
+Scrape at 01-07-2020 07:33:41 successful with 103 records
+Scrape at 01-07-2020 17:54:23 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 01-07-2020 18:07:40 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D3&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 01-07-2020 18:43:35 successful with 98 records
+Scrape at 01-07-2020 23:28:34 successful with 103 records
+Scrape at 02-07-2020 03:40:57 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 02-07-2020 03:58:57 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 02-07-2020 04:14:24 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 02-07-2020 04:28:59 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 02-07-2020 04:33:36 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 02-07-2020 04:54:31 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 02-07-2020 05:06:45 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 02-07-2020 05:12:28 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 02-07-2020 05:30:35 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 02-07-2020 05:46:20 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 02-07-2020 06:06:47 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 02-07-2020 06:06:47 failed with max re-tries
+Scrape at 02-07-2020 06:56:53 successful with 104 records
+Scrape at 02-07-2020 11:43:43 successful with 102 records
+Scrape at 02-07-2020 15:56:08 successful with 105 records
+Scrape at 02-07-2020 20:31:42 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 02-07-2020 20:52:49 successful with 103 records
+Scrape at 03-07-2020 01:52:19 successful with 99 records
+Scrape at 03-07-2020 13:27:23 successful with 98 records
+Scrape at 03-07-2020 17:44:53 successful with 96 records
+Scrape at 03-07-2020 22:46:34 successful with 94 records
+Scrape at 04-07-2020 03:15:54 successful with 101 records
+Scrape at 04-07-2020 08:20:40 successful with 103 records
+Scrape at 04-07-2020 13:26:27 successful with 103 records
+Scrape at 04-07-2020 18:21:33 successful with 91 records
+Scrape at 04-07-2020 23:23:44 successful with 92 records
+Scrape at 05-07-2020 04:33:56 successful with 76 records
+Scrape at 05-07-2020 09:17:53 successful with 76 records
+Scrape at 05-07-2020 14:30:44 successful with 72 records
+Scrape at 05-07-2020 19:19:16 successful with 64 records
+Scrape at 05-07-2020 23:33:49 successful with 68 records
+Scrape at 06-07-2020 04:13:37 successful with 77 records
+Scrape at 06-07-2020 08:35:49 successful with 77 records
+Scrape at 06-07-2020 13:06:45 successful with 79 records
+Scrape at 06-07-2020 17:21:21 successful with 81 records
+Scrape at 06-07-2020 21:54:22 successful with 81 records
+Scrape at 07-07-2020 02:38:24 successful with 74 records
+Scrape at 07-07-2020 07:25:23 successful with 75 records
+Scrape at 07-07-2020 11:37:47 successful with 72 records
+Scrape at 07-07-2020 15:51:41 successful with 72 records
+Scrape at 07-07-2020 20:27:04 successful with 72 records
+Scrape at 08-07-2020 00:56:52 successful with 69 records
+Scrape at 08-07-2020 05:24:33 successful with 75 records
+Scrape at 08-07-2020 10:10:49 successful with 76 records
+Scrape at 08-07-2020 14:32:04 successful with 80 records
+Scrape at 08-07-2020 19:25:46 successful with 73 records
+Scrape at 08-07-2020 23:46:57 successful with 71 records
+Scrape at 09-07-2020 04:19:10 successful with 70 records
+Scrape at 09-07-2020 08:42:48 successful with 69 records
+Scrape at 09-07-2020 13:02:35 successful with 68 records
+Scrape at 09-07-2020 17:30:23 successful with 70 records
+Scrape at 09-07-2020 21:42:13 successful with 64 records
+Scrape at 10-07-2020 02:05:37 successful with 74 records
+Scrape at 10-07-2020 06:43:26 successful with 70 records
+Scrape at 10-07-2020 11:14:17 successful with 78 records
+Scrape at 10-07-2020 15:55:19 successful with 80 records
+Scrape at 10-07-2020 20:23:00 successful with 88 records
+Scrape at 11-07-2020 00:30:04 successful with 85 records
+Scrape at 11-07-2020 04:52:41 successful with 89 records
+Scrape at 11-07-2020 09:09:23 successful with 88 records
+Scrape at 11-07-2020 13:31:34 successful with 91 records
+Scrape at 11-07-2020 18:05:39 successful with 95 records
+Scrape at 11-07-2020 22:33:38 successful with 95 records
+Scrape at 12-07-2020 03:29:11 successful with 101 records
+Scrape at 12-07-2020 08:01:01 successful with 99 records
+Scrape at 12-07-2020 12:53:02 successful with 97 records
+Scrape at 12-07-2020 17:05:58 successful with 97 records
+Scrape at 12-07-2020 22:07:09 successful with 99 records
+Scrape at 13-07-2020 02:31:02 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 13-07-2020 02:50:14 successful with 99 records
+Scrape at 13-07-2020 07:41:30 successful with 101 records
+Scrape at 13-07-2020 12:42:05 successful with 100 records
+Scrape at 13-07-2020 17:16:27 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 13-07-2020 17:42:37 successful with 99 records
+Scrape at 13-07-2020 22:44:20 successful with 103 records
+Scrape at 14-07-2020 03:10:41 successful with 109 records
+Scrape at 14-07-2020 08:12:36 successful with 107 records
+Scrape at 14-07-2020 12:38:52 successful with 102 records
+Scrape at 14-07-2020 17:34:18 successful with 108 records
+Scrape at 14-07-2020 22:08:12 successful with 54 records
+Scrape at 15-07-2020 02:26:42 successful with 108 records
+Scrape at 15-07-2020 07:06:31 successful with 108 records
+Scrape at 15-07-2020 11:31:51 successful with 107 records
+Scrape at 15-07-2020 16:05:23 successful with 102 records
+Scrape at 15-07-2020 20:56:43 successful with 100 records
+Scrape at 16-07-2020 01:38:47 successful with 98 records
+Scrape at 16-07-2020 06:06:38 successful with 96 records
+Scrape at 16-07-2020 10:23:34 successful with 95 records
+Scrape at 16-07-2020 15:28:58 successful with 96 records
+Scrape at 16-07-2020 19:41:54 successful with 96 records
+Scrape at 17-07-2020 00:05:08 successful with 93 records
+Scrape at 17-07-2020 04:35:09 successful with 93 records
+Scrape at 17-07-2020 09:15:12 successful with 92 records
+Scrape at 17-07-2020 13:53:02 successful with 92 records
+Scrape at 17-07-2020 18:09:46 successful with 95 records
+Scrape at 17-07-2020 22:42:01 successful with 94 records
+Scrape at 18-07-2020 03:47:31 successful with 94 records
+Scrape at 18-07-2020 08:05:10 successful with 92 records
+Scrape at 18-07-2020 13:03:58 successful with 97 records
+Scrape at 18-07-2020 17:10:45 successful with 89 records
+Scrape at 19-07-2020 22:52:11 failed with Message: connection refused
+
+Scrape at 19-07-2020 23:13:24 successful with 82 records
+Scrape at 20-07-2020 03:39:15 successful with 76 records
+Scrape at 20-07-2020 08:45:54 successful with 80 records
+Scrape at 20-07-2020 13:12:06 successful with 85 records
+Scrape at 20-07-2020 17:56:59 successful with 87 records
+Scrape at 20-07-2020 22:23:30 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 20-07-2020 22:51:21 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1896%26iPage%3D1&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 20-07-2020 22:57:18 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 20-07-2020 23:27:57 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 20-07-2020 23:44:44 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 20-07-2020 23:50:15 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 21-07-2020 00:04:27 successful with 83 records
+Scrape at 21-07-2020 04:33:45 successful with 88 records
+Scrape at 21-07-2020 08:46:54 successful with 87 records
+Scrape at 21-07-2020 13:26:49 successful with 85 records
+Scrape at 21-07-2020 18:37:33 successful with 95 records
+Scrape at 21-07-2020 23:28:20 successful with 93 records
+Scrape at 22-07-2020 03:41:59 successful with 95 records
+Scrape at 22-07-2020 08:03:16 successful with 105 records
+Scrape at 22-07-2020 12:57:52 successful with 101 records
+Scrape at 22-07-2020 17:21:05 successful with 101 records
+Scrape at 22-07-2020 22:25:32 successful with 97 records
+Scrape at 23-07-2020 03:33:15 successful with 95 records
+Scrape at 23-07-2020 07:46:07 successful with 93 records
+Scrape at 23-07-2020 12:15:41 successful with 95 records
+Scrape at 23-07-2020 17:21:53 successful with 94 records
+Scrape at 23-07-2020 22:02:30 successful with 99 records
+Scrape at 24-07-2020 02:31:27 successful with 86 records
+Scrape at 24-07-2020 06:56:02 successful with 94 records
+Scrape at 24-07-2020 11:32:56 successful with 93 records
+Scrape at 24-07-2020 16:17:22 failed with Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D1&c=UTF-8&f=regular&d=The%20connection%20to%20matanga.top%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+Scrape at 24-07-2020 16:30:05 successful with 93 records
+Scrape at 24-07-2020 21:03:41 successful with 94 records
+Scrape at 25-07-2020 01:21:19 successful with 92 records
+Scrape at 25-07-2020 06:24:25 successful with 100 records
+Scrape at 25-07-2020 11:05:34 successful with 98 records
+Scrape at 25-07-2020 15:58:18 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 25-07-2020 16:17:12 successful with 94 records
+Scrape at 25-07-2020 21:24:12 successful with 88 records
+Scrape at 26-07-2020 01:51:07 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 26-07-2020 02:18:21 successful with 82 records
+Scrape at 26-07-2020 07:13:10 successful with 84 records
+Scrape at 26-07-2020 11:41:03 successful with 84 records
+Scrape at 26-07-2020 16:29:29 successful with 86 records
+Scrape at 26-07-2020 21:10:39 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 26-07-2020 21:24:28 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D0&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 26-07-2020 21:43:39 successful with 89 records
+Scrape at 27-07-2020 02:35:51 failed with Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//matanga.top/%3FiFirstLevel%3D1633%26iPage%3D1&c=UTF-8&f=regular&d=The%20server%20at%20matanga.top%20is%20taking%20too%20long%20to%20respond.
+
+Scrape at 27-07-2020 02:59:10 successful with 93 records
+Scrape at 27-07-2020 08:03:57 successful with 95 records
+Scrape at 27-07-2020 12:26:31 successful with 91 records
+Scrape at 27-07-2020 16:59:13 successful with 90 records
+Scrape at 27-07-2020 22:08:01 successful with 87 records
+Scrape at 28-07-2020 02:20:01 successful with 86 records
+Scrape at 28-07-2020 07:28:23 successful with 84 records
+Scrape at 28-07-2020 11:50:50 successful with 89 records
+Scrape at 28-07-2020 16:29:44 successful with 92 records
+Scrape at 28-07-2020 21:36:18 successful with 88 records
+Scrape at 29-07-2020 11:44:48 successful with 89 records
+Scrape at 29-07-2020 16:29:19 successful with 89 records
+Scrape at 29-07-2020 20:51:21 successful with 81 records
+Scrape at 30-07-2020 01:45:16 successful with 81 records
+Scrape at 30-07-2020 06:28:38 successful with 83 records
+Scrape at 30-07-2020 10:41:36 successful with 84 records
+Scrape at 30-07-2020 15:15:23 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 30-07-2020 15:32:17 failed with Message: Timeout loading page after 300000ms
+
+Scrape at 30-07-2020 15:54:42 successful with 87 records
+Scrape at 30-07-2020 20:33:43 successful with 81 records
+Scrape at 31-07-2020 01:21:32 successful with 82 records
+Scrape at 31-07-2020 05:53:59 successful with 87 records
+Scrape at 31-07-2020 10:56:32 successful with 88 records
+Scrape at 31-07-2020 15:34:56 successful with 95 records
+Scrape at 31-07-2020 20:08:39 successful with 98 records
+Scrape at 01-08-2020 01:07:09 successful with 100 records
+Scrape at 01-08-2020 05:59:29 successful with 98 records
+Scrape at 01-08-2020 10:40:04 successful with 97 records
+Scrape at 01-08-2020 14:53:56 successful with 99 records
+Scrape at 01-08-2020 19:16:27 successful with 95 records
+Scrape at 01-08-2020 23:46:38 successful with 90 records
+Scrape at 02-08-2020 04:35:57 successful with 89 records
+Scrape at 02-08-2020 09:08:47 successful with 93 records
+Scrape at 02-08-2020 13:49:46 successful with 97 records
+Scrape at 02-08-2020 18:29:16 successful with 96 records
+Scrape at 02-08-2020 23:05:01 successful with 91 records
+Scrape at 03-08-2020 04:09:44 successful with 95 records
+Scrape at 03-08-2020 08:30:09 successful with 94 records
+Scrape at 03-08-2020 13:36:11 successful with 99 records
+Scrape at 03-08-2020 18:18:28 successful with 92 records
+Scrape at 03-08-2020 22:29:26 successful with 89 records
+Scrape at 04-08-2020 03:09:05 successful with 90 records
+Scrape at 04-08-2020 07:44:47 successful with 88 records
+Scrape at 04-08-2020 11:56:28 successful with 91 records
+Scrape at 04-08-2020 16:26:45 successful with 98 records
+Scrape at 04-08-2020 21:28:24 successful with 94 records
+Scrape at 05-08-2020 01:46:58 successful with 95 records
+Scrape at 05-08-2020 06:21:10 successful with 95 records
+Scrape at 05-08-2020 11:16:39 successful with 96 records
+Scrape at 05-08-2020 15:53:22 successful with 102 records
+Scrape at 05-08-2020 20:14:06 successful with 99 records
+Scrape at 06-08-2020 01:22:36 successful with 103 records
+Scrape at 06-08-2020 06:12:47 successful with 98 records
+Scrape at 06-08-2020 10:38:47 successful with 98 records
+Scrape at 06-08-2020 15:36:32 successful with 108 records
+Scrape at 06-08-2020 20:38:44 successful with 103 records
+Scrape at 07-08-2020 01:11:55 successful with 105 records
+Scrape at 07-08-2020 05:44:47 successful with 98 records
