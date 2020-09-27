@@ -81,6 +81,27 @@ drop = ["Work", "Reagent", "Combo", "Services"]
 # Applying to listings only
 listings["ready_pre"] = listings.apply(ready_pre, axis=1)
 
+# Fix the boths that move between ready and pre-order
+
+# First make dict to map
+ready_pre_dict = (
+    listings.groupby("uid")["ready_pre"]
+    .nunique()
+    .reset_index()
+    .query("ready_pre > 1")
+    .assign(ready_pre="Both")
+    .set_index("uid")
+    .to_dict()["ready_pre"]
+)
+
+# Then apply conditionally
+listings["ready_pre"] = listings.apply(
+    lambda x: ready_pre_dict[x["uid"]]
+    if x["uid"] in ready_pre_dict.keys()
+    else x["ready_pre"], axis=1
+)
+
+
 # Similar for checking substance vs. non-substance
 listings["list_cat"] = listings["sub"].apply(
     lambda x: "Substance" if x not in drop else "Non-Substance"
@@ -389,7 +410,7 @@ for da in sr_tot["date"]:
 # Dropping uncessary legend title and putting legend entries in order
 handles, labels = ax.get_legend_handles_labels()
 handles = handles[1:][::-1]
-labels = ["Sold", "Listed"][::-1]
+labels = ["Revenue", "Listed"][::-1]
 
 # Locating the legend
 ax.legend(
@@ -412,12 +433,15 @@ ax.get_yaxis().set_major_formatter(
 
 # The title
 fig.suptitle(
-    "Total sales and listings value (February-August, 2020)",
+    "Total revenue and listings value (February-August, 2020)",
     y=1.05,
     x=0.52,
     fontsize=20,
 )
 
+# Adding covid outbreak
+plt.axvline(date(2020,2,26), alpha=0.75, linestyle='--')
+plt.text(x=date(2020,2,29), y=85000, s='First registered Covid-19 case\nFebruary 26, 2020')
 # Tidying and saving/showing
 fig.tight_layout()
 fig.savefig("CHARTS/BRIEF/0817/list_sold_usd_time.png", bbox_inches="tight")
@@ -554,6 +578,15 @@ modal_quants = (
 sub_stats = sub_stats.merge(modal_quants, left_index=True, right_index=True)
 sub_stats.to_clipboard()
 
+#%% Cannabis over time
+
+cann = sales.groupby(['date', 'sub'])['usd_sold'].sum().reset_index().query('sub == "Cannabis"').drop('sub', axis=1)
+not_cann = sales.groupby(['date', 'sub'])['usd_sold'].sum().reset_index().query('sub != "Cannabis"').groupby('date')['usd_sold'].sum().reset_index().assign(sub='Other substances')
+
+cann_df = pd.concat([cann, not_cann])
+
+sns.lineplot(data = cann_df, x='date', y='usd_sold', hue='sub')
+
 
 #%%
 
@@ -593,7 +626,7 @@ def quant_plot(quant_tab, tup, unit="grams"):
     )
     xlabs = data["cut"].unique()
     heat.set_xticklabels(xlabs, rotation=45, fontsize=12)
-    heat.set_yticklabels(["Unique\nlistings"], rotation=0, fontsize=14)
+    heat.set_yticklabels(["Unique listings\n (inc. pre-order)"], rotation=0, fontsize=14)
     heat.set_xlabel(xlabel=f"Quantity ({unit})", fontsize=14)
 
     bar = sns.barplot(data=data, y="sold", x="cut", ax=axes[0], color=my_pal[0])
@@ -813,7 +846,7 @@ fig.suptitle(
 
 # Tidying and saving/showing
 fig.tight_layout()
-fig.savefig("CHARTS/BRIEF/0817/opiates.png", bbox_inches="tight")
+fig.savefig("CHARTS/BRIEF/0817/cannabis.png", bbox_inches="tight")
 plt.show()
 
 
@@ -845,146 +878,4 @@ fig.suptitle(
 fig.savefig("CHARTS/BRIEF/0817/methadone_time.png")
 
 #%%
-# Not dwelled on in the report, but a useful reference.
-# This is pct change in a range of indicators by cutpoint
-
-# # It's a bit of a mess for output right now because I've messed
-# # With the cutpoint labels, but as the chart didn't make the err, cut
-# # I've not fixed it.
-# cov_stage = (
-#     sr_tab.groupby("date")[["usd_ready", "usd_sold"]]
-#     .sum()
-#     .reset_index()
-#     .merge(sales[["date", "cut"]], how="left")
-#     .groupby("cut")
-#     .mean()
-#     .merge(vend_list_cut_mean, left_index=True, right_index=True)
-# )
-# pre_cov = cov_stage.loc["Pre-Covid"]
-
-# cov_change = (
-#     cov_stage.sub(pre_cov)
-#     .div(pre_cov)
-#     .mul(100)
-#     .drop("Pre-Covid")
-#     .reset_index()
-#     .melt("cut")
-# )
-# cov_change["cut"] = cov_change["cut"].astype(str)
-
-# g = sns.catplot(
-#     data=cov_change,
-#     x="cut",
-#     y="value",
-#     col="variable",
-#     kind="bar",
-#     # color="b",
-#     col_wrap=2,
-# )
-
-# g.set(ylim=(-100, 0))
-
-# axes = g.axes.flatten()
-# titles = ["USD listed", "USD sold", "Unique listings", "Unique vendors"]
-# for ax, t in zip(axes, titles):
-#     ax.set_title(t)
-#     ax.set_xlabel(None)
-#     ax.set_ylabel(None)
-#     for p in ax.patches:
-#         ax.text(
-#             p.get_x() + p.get_width() / 2.0,
-#             p.get_height() - 5,
-#             "%d" % int(p.get_height()) + "%",
-#             fontsize=12,
-#             ha="center",
-#             va="bottom",
-#         )
-# g.fig.suptitle(
-#     "Change in site metrics post-Covid outbreak (% change)", y=1.02, fontsize=20
-# )
-# plt.show()
-# g.fig.savefig("CHARTS/baseline_bars.png", bbox_inches="tight")
-
-
-# #%% Set up cut point labels
-
-# # Load cutpoint dates and labels
-# dt_tab = pd.read_csv("DATA/INPUT/short_dates.csv")
-
-# # Format dates as datetime properly to prevent matplotlib from complaining
-# dts = [pd.to_datetime(d) for d in dt_tab["date"]]
-
-# # Put new lines in all the labels, spliting on first word
-# lb = ["\n".join(i.split(" ", maxsplit=1)) for i in dt_tab["short"]]
-
-# # Concatenate labels and format dates
-# lbs = [f"{l}\n{d.strftime('%-d %b')}" for l, d in zip(lb, dts)]
-
-
-# #%% Figure 4: Impact of Covid-19 response on sales and listings value
-
-# # Getting the data ready
-# cut_stats = (
-#     daily_sales.reset_index()
-#     .merge(daily_listings.reset_index())
-#     .merge(sales[["date", "cut"]])
-#     .groupby("cut")[["usd_sold", "usd_ready"]]
-#     .mean()
-# )
-# cut_stats.index = ["Pre-Covid"] + [i[:-7] for i in lbs]
-
-
-# # For some reason I now forget, I do this in an old-school matplotlib way
-
-# # Which means passing the xaxis labels manually
-# x = cut_stats.index.to_list()
-
-# # Setup plot
-# fig, axes = plt.subplots(1, 2, figsize=(10, 5), sharey=True)
-
-# # Iterate between the variables I want to show (sales and listings)
-# for n, var in enumerate(["usd_sold", "usd_ready"]):
-
-#     # Manually pull the y values
-#     y = cut_stats[var].to_list()
-
-#     # And plot
-#     sns.barplot(x, y, ax=axes[n], color=my_pal[1])
-
-#     axes[n].set_ylim(0, 65000)  # Set the ylim
-
-#     # Labels above each bar
-#     for p in axes[n].patches:
-#         axes[n].text(
-#             p.get_x() + p.get_width() / 2.0,  # Center text (x)
-#             p.get_height() + 100,  # Set height (y)
-#             f"{int(p.get_height()):,}",  # Comma formatted labels
-#             fontsize=11,  # Duh
-#             ha="center",  # Little layout tweaks
-#             va="bottom",  # Little layout tweaks
-#         )
-#         # Weird way to do it, but setting label rotation on the x
-#         # Only did one of 'em when I did it the normal way
-#         plt.setp(axes[n].xaxis.get_majorticklabels(), rotation=70)
-
-#         axes[n].tick_params(axis="x", labelsize=12)
-
-#         # Comma formatting the y axis
-#         axes[n].get_yaxis().set_major_formatter(
-#             ticker.FuncFormatter(lambda x, p: format(int(x), ","))
-#         )
-
-# # Titles
-# axes[0].set_title("Sales")
-# axes[1].set_title("Listings")
-# fig.suptitle(
-#     "Average daily sales and listings value (USD) by Covid crisis policy response",
-#     y=1.05,
-#     fontsize=16,
-# )
-
-# # Tighten up and output
-# fig.tight_layout()
-# fig.savefig("CHARTS/BRIEF/0817/policy_cutpoints.png", bbox_inches="tight")
-# plt.show()
 
