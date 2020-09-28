@@ -115,5 +115,5 @@ fig.suptitle(
 
 # Tidying and saving/showing
 fig.tight_layout()
-fig.savefig("CHARTS/BRIEF/0817/opiates.png", bbox_inches="tight")
+fig.savefig("CHARTS/BRIEF/0817/cannabis_time.png", bbox_inches="tight")
 plt.show()

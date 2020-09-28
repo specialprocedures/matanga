@@ -119,27 +119,6 @@ df["usd"] = df["usd"].fillna(df["usd_eur_calc"])
 
 
 #%% recategorise based on existing list
-# print("Fixing uncategorised records")
-# labels = pd.read_csv("DATA/INPUT/labels.csv")
-# df = recategorise(df)
-
-# # Pull out any remaining uncategorised ones for manual checking
-# df[~df["sub"].isin(labels["name"])][
-#     ["description", "desc_en", "usd", "group", "sub", "type"]
-# ].drop_duplicates(subset="description").to_excel(
-#     f"DATA/OUTPUT/CATEGORIES/uncategorised_{TIME_STAMP}.xlsx", index=False
-# )
-
-# if "Uncategorised" in df["sub"].value_counts().index:
-#     uncat_num = df["sub"].value_counts()["Uncategorised"]
-# else:
-#     uncat_num = 0
-
-# print(f"{uncat_num} uncategorised records for checking")
-
-# #%% Need to stop here and sort out the uncategorised ones manually
-
-# df = recategorise(df)
 
 
 #%% Slap in a uid for each record, based on a hash of key columns
@@ -304,19 +283,23 @@ tab["total_revenue"] = tab["ready_revenue"] + tab["presale_revenue"]
 # This is based on max() and may be lower than transactions
 # due to carry over and restocking
 
-tab = (
-    df.groupby(["uid", "date", "sub", "type"], observed=True)["ready"]
-    .max()
-    .reset_index()
-    .groupby(["date", "sub", "type"], observed=True)["ready"]
-    .sum()
-    .reset_index()
-    .rename(columns={"ready": "total_ready_packages"})
-    .merge(tab, on=["date", "sub", "type"], how="left")
-)
+# This wasn't used in the final analysis, an interim daily summary sheet. May not agree with policy_brief.py as a lot of
+# complicated analysis goes on there and this was something of a prototype.
+
+
+# tab = (
+#     df.groupby(["uid", "date", "sub", "type"], observed=True)["ready"]
+#     .max()
+#     .reset_index()
+#     .groupby(["date", "sub", "type"], observed=True)["ready"]
+#     .sum()
+#     .reset_index()
+#     .rename(columns={"ready": "total_ready_packages"})
+#     .merge(tab, on=["date", "sub", "type"], how="left")
+# )
 #%%
 
-tab.to_excel(f"DATA/OUTPUT/DAILY/daily_sub_stats_cut_{TIME_STAMP}.xlsx", index=False)
+# tab.to_excel(f"DATA/OUTPUT/DAILY/daily_sub_stats_cut_{TIME_STAMP}.xlsx", index=False)
 
 
 #%%

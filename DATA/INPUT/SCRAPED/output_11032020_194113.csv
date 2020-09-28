@@ -1,18 +1,18 @@
-,time_stamp,region,sell_code,sell_name,description,Батуми,готовых,предзаказ,город,вес,BTC,ք,₴,Br,$,Центр,Кутаиси,desc_en
-0,11-03-2020 19:38:09,Batumi,72B,CHINATOWN,NZT-52 limited 1 г мука,True,16,нет,Батуми,1 гр,0.0217,14294,5280,464,200,,,NZT-52 limited 1 g muka
-1,11-03-2020 19:38:09,Batumi,CL7K,go420times,ORANGE PUNCH [1g],True,3,нет,Батуми,1 гр,0.0072,4288,1584,139,60,,,ORANGE PUNCH [1g]
-2,11-03-2020 19:38:09,Batumi,XHR,420Factory,Power Africa 1g,True,4,нет,Батуми,1 гр,0.0054,3574,1320,116,50,,,Power Africa 1g
-3,11-03-2020 19:38:09,Batumi,72B,CHINATOWN,NZT-52 limited 2г мука,True,11,нет,Батуми,2 гр,0.0391,25730,9504,835,360,,,NZT-52 limited 2g muka
-4,11-03-2020 19:38:09,Batumi,XHR,420Factory,Power Africa 2.5 g,True,1,нет,Батуми,2.5 гр,0.0114,7505,2772,244,105,,,Power Africa 2.5 g
-5,11-03-2020 19:38:09,Batumi,9VVG,ToWeedShop,Skunk! 50 gr.,True,1,нет,Батуми,50 гр,0.1791,107208,39600,3481,1500,,,Skunk! 50 gr.
-6,11-03-2020 19:38:10,Batumi,XH0NP,XX-PABLO-XX,Метадон - (KRISTAL) - VHQ - BATUMI - 0.27 G,True,3,4,Батуми,0.27 гр,0.0326,19297,7128,627,270,,,Metadon - (KRISTAL) - VHQ - BATUMI - 0.27 G
-7,11-03-2020 19:38:10,Batumi,A08BZ,Subway,Метамфетамин рацемат 5 г. (MQ),True,1,16,Батуми,5 гр,0.0217,14294,5280,464,200,,,Metamfetamin ratsemat 5 g. (MQ)
-8,11-03-2020 19:38:10,Batumi,XH0NP,XX-PABLO-XX,SUBOXIN - HQ - 100 G.,True,нет,2,Батуми,100 гр,0.2413,142944,52800,4642,2000,,,SUBOXIN - HQ - 100 G.
-9,11-03-2020 19:38:10,Batumi,XH0NP,XX-PABLO-XX,MARIXYANA - 150 G. (SHISHKI) SALE 10% BTC,True,нет,3,Батуми,150 гр,0.1809,107208,39600,3481,1500,,,MARIXYANA - 150 G. (SHISHKI) SALE 10% BTC
-10,11-03-2020 19:38:10,Batumi,42AF,Leningrad6,курьер в Батуми,True,1,нет,Батуми,1 гр,0.0054,3574,1320,116,50,,,kur'er v Batumi
-11,11-03-2020 19:38:10,Batumi,XHR,420Factory,Работа кладмэном. Только шишки.,True,1,нет,Батуми,5 гр,0.0271,17868,6600,580,250,,,Rabota kladmenom. Tol'ko shishki.
-12,11-03-2020 19:38:10,Batumi,A3I9,Joookerrr,Работа на марки (курьер),True,1,нет,Батуми,10 гр,0.0163,10721,3960,348,150,,,Rabota na marki (kur'er)
-13,11-03-2020 19:38:10,Batumi,F8K,BestAcid,Ищу курьера в Грузии!,True,1,нет,Батуми,50 гр,0.0271,17868,6600,580,250,,,Ischu kur'era v Gruzii!
-14,11-03-2020 19:38:10,Batumi,A08BZ,Subway,Вакансия оптового курьера на меф,True,нет,1,Батуми,400 гр,1.8078,1072080,396000,34812,15000,,,Vakansija optovogo kur'era na mef
-15,11-03-2020 19:38:10,Batumi,6UG,Good Enuff,"Вакансия работа курьером на марки! Оплата от 50$ за клад, залог 500$",True,нет,2,Батуми,1000 гр,0.0597,35736,13200,1160,500,True,,"Vakansija rabota kur'erom na marki! Oplata ot 50$ za klad, zalog 500$"
-16,11-03-2020 19:39:44,Kutaisi,A3I9,Joookerrr,Работа на марки (курьер),,1,нет,Кутаиси,10 гр,0.0163,10721,3960,348,150,,True,Rabota na marki (kur'er)
+,Unnamed: 0,time_stamp,region,sell_code,description,Батуми,готовых,предзаказ,город,вес,BTC,ք,₴,Br,$,Центр,Кутаиси,desc_en
+0,0,11-03-2020 19:38:09,Batumi,c72111ac1a,NZT-52 limited 1 г мука,True,16,нет,Батуми,1 гр,0.0217,14294,5280,464,200,,,NZT-52 limited 1 g muka
+1,1,11-03-2020 19:38:09,Batumi,3ee37c89bb,ORANGE PUNCH [1g],True,3,нет,Батуми,1 гр,0.0072,4288,1584,139,60,,,ORANGE PUNCH [1g]
+2,2,11-03-2020 19:38:09,Batumi,012f23b5ea,Power Africa 1g,True,4,нет,Батуми,1 гр,0.0054,3574,1320,116,50,,,Power Africa 1g
+3,3,11-03-2020 19:38:09,Batumi,c72111ac1a,NZT-52 limited 2г мука,True,11,нет,Батуми,2 гр,0.0391,25730,9504,835,360,,,NZT-52 limited 2g muka
+4,4,11-03-2020 19:38:09,Batumi,012f23b5ea,Power Africa 2.5 g,True,1,нет,Батуми,2.5 гр,0.0114,7505,2772,244,105,,,Power Africa 2.5 g
+5,5,11-03-2020 19:38:09,Batumi,30f48d507d,Skunk! 50 gr.,True,1,нет,Батуми,50 гр,0.1791,107208,39600,3481,1500,,,Skunk! 50 gr.
+6,6,11-03-2020 19:38:10,Batumi,f8a875c191,Метадон - (KRISTAL) - VHQ - BATUMI - 0.27 G,True,3,4,Батуми,0.27 гр,0.0326,19297,7128,627,270,,,Metadon - (KRISTAL) - VHQ - BATUMI - 0.27 G
+7,7,11-03-2020 19:38:10,Batumi,ea97036e14,Метамфетамин рацемат 5 г. (MQ),True,1,16,Батуми,5 гр,0.0217,14294,5280,464,200,,,Metamfetamin ratsemat 5 g. (MQ)
+8,8,11-03-2020 19:38:10,Batumi,f8a875c191,SUBOXIN - HQ - 100 G.,True,нет,2,Батуми,100 гр,0.2413,142944,52800,4642,2000,,,SUBOXIN - HQ - 100 G.
+9,9,11-03-2020 19:38:10,Batumi,f8a875c191,MARIXYANA - 150 G. (SHISHKI) SALE 10% BTC,True,нет,3,Батуми,150 гр,0.1809,107208,39600,3481,1500,,,MARIXYANA - 150 G. (SHISHKI) SALE 10% BTC
+10,10,11-03-2020 19:38:10,Batumi,22610cd7c4,курьер в Батуми,True,1,нет,Батуми,1 гр,0.0054,3574,1320,116,50,,,kur'er v Batumi
+11,11,11-03-2020 19:38:10,Batumi,012f23b5ea,Работа кладмэном. Только шишки.,True,1,нет,Батуми,5 гр,0.0271,17868,6600,580,250,,,Rabota kladmenom. Tol'ko shishki.
+12,12,11-03-2020 19:38:10,Batumi,54915c4374,Работа на марки (курьер),True,1,нет,Батуми,10 гр,0.0163,10721,3960,348,150,,,Rabota na marki (kur'er)
+13,13,11-03-2020 19:38:10,Batumi,ce6827deee,Ищу курьера в Грузии!,True,1,нет,Батуми,50 гр,0.0271,17868,6600,580,250,,,Ischu kur'era v Gruzii!
+14,14,11-03-2020 19:38:10,Batumi,ea97036e14,Вакансия оптового курьера на меф,True,нет,1,Батуми,400 гр,1.8078,1072080,396000,34812,15000,,,Vakansija optovogo kur'era na mef
+15,15,11-03-2020 19:38:10,Batumi,16be2c8499,"Вакансия работа курьером на марки! Оплата от 50$ за клад, залог 500$",True,нет,2,Батуми,1000 гр,0.0597,35736,13200,1160,500,True,,"Vakansija rabota kur'erom na marki! Oplata ot 50$ za klad, zalog 500$"
+16,16,11-03-2020 19:39:44,Kutaisi,54915c4374,Работа на марки (курьер),,1,нет,Кутаиси,10 гр,0.0163,10721,3960,348,150,,True,Rabota na marki (kur'er)

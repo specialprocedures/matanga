@@ -1,17 +1,17 @@
-,time_stamp,region,sell_code,sell_name,description,Батуми,готовых,предзаказ,город,вес,BTC,ք,₴,Br,$,€,Центр,Кутаиси,desc_en
-0,18-05-2020 15:43:51,Batumi,CL7K,go420times,[100g] SPAIN HASH,True,1,нет,Батуми,105 гр,0.2248,160556,58850,5382,2200,,,,[100g] SPAIN HASH
-1,18-05-2020 15:43:51,Batumi,A3I9,Joookerrr,Бупренорфин (аналог суботекса) 0.2 гр.,True,нет,8,Батуми,0.2 гр,0.0099,7105,2606,238,,90,,,Buprenorfin (analog suboteksa) 0.2 gr.
-2,18-05-2020 15:43:51,Batumi,A3I9,Joookerrr,"MDMA ""цунами удовольствия) 0.5 грамм",True,нет,27,Батуми,0.5 гр,0.0092,6568,2408,220,90,,,,"MDMA ""tsunami udovol'stvija) 0.5 gramm"
-3,18-05-2020 15:43:51,Batumi,A3I9,Joookerrr,Батуми н-бооом 2 штуки,True,нет,9,Батуми,2 гр,0.0036,2605,955,87,,33,,,Batumi n-booom 2 shtuki
-4,18-05-2020 15:43:51,Batumi,A3I9,Joookerrr,"""Express Batumi"" марки н-боооом 8 шт.",True,нет,10,Батуми,8 гр,0.0102,7298,2675,245,100,,,,"""Express Batumi"" marki n-boooom 8 sht."
-5,18-05-2020 15:43:51,Batumi,QHW5I,DrugEA,❥ Твой! ГАШИШ Марокко 500 грамм ♥,True,нет,1,Батуми,500 гр,0.1582,112990,51992,3774,,,,,❥ Tvoj! GAShISh Marokko 500 gramm ♥
-6,18-05-2020 15:43:51,Batumi,QHW5I,DrugEA,❥Твой! ГАШИШ Марокко 1000 грамм ♥,True,нет,1,Батуми,1000 гр,0.2505,178900,82321,5976,,,,,❥Tvoj! GAShISh Marokko 1000 gramm ♥
-7,18-05-2020 15:43:51,Batumi,42AF,Leningrad6,курьер в Батуми,True,1,нет,Батуми,1 гр,0.0093,7298,2675,245,100,,,,kur'er v Batumi
-8,18-05-2020 15:43:51,Batumi,XHR,420Factory,Работа кладмэном. Только шишки.,True,1,нет,Батуми,5 гр,0.0232,18245,6688,612,250,,,,Rabota kladmenom. Tol'ko shishki.
-9,18-05-2020 15:43:51,Batumi,F8K,BestAcid,Ищу курьера в Грузии!,True,1,нет,Батуми,50 гр,0.0232,18245,6688,612,250,,,,Ischu kur'era v Gruzii!
-10,18-05-2020 15:43:51,Batumi,A08BZ,Subway,Вакансия оптового курьера на меф,True,нет,1,Батуми,400 гр,1.5465,1094697,401250,36693,15000,,,,Vakansija optovogo kur'era na mef
-11,18-05-2020 15:43:51,Batumi,6UG,Good Enuff,"Вакансия работа курьером на марки! Оплата от 50$ за клад, залог 500$",True,нет,2,Батуми,1000 гр,0.0511,36490,13375,1223,500,,True,,"Vakansija rabota kur'erom na marki! Oplata ot 50$ za klad, zalog 500$"
-12,18-05-2020 15:45:31,Kutaisi,EIH4,San4oPan4o,MDMA from Europe!!! 1.5g !!! SALE!!! !!! КУТАИСИ !!! BTC SALE 5%!!!!,,1,нет,Кутаиси,1.5 гр,0.0211,15326,5618,514,210,,,True,MDMA from Europe!!! 1.5g !!! SALE!!! !!! KUTAISI !!! BTC SALE 5%!!!!
-13,18-05-2020 15:45:31,Kutaisi,EIH4,San4oPan4o,Columbia Cocaine VHQ 2g !!! SALE!!! !!! КУТАИСИ !!! BTC SALE 5%!!!!,,6,нет,Кутаиси,2 гр,0.0491,35395,12974,1186,485,,,True,Columbia Cocaine VHQ 2g !!! SALE!!! !!! KUTAISI !!! BTC SALE 5%!!!!
-14,18-05-2020 15:45:31,Kutaisi,EIH4,San4oPan4o,MDMA from Europe!!! 3g !!! SALE!!! !!! КУТАИСИ !!! BTC SALE 5%!!!!,,8,нет,Кутаиси,3 гр,0.0375,27003,9898,905,370,,,True,MDMA from Europe!!! 3g !!! SALE!!! !!! KUTAISI !!! BTC SALE 5%!!!!
-15,18-05-2020 15:45:31,Kutaisi,A3I9,Joookerrr,Работа на марки (курьер),,нет,1,Кутаиси,25 гр,0.0205,14596,5350,489,200,,,True,Rabota na marki (kur'er)
+,Unnamed: 0,time_stamp,region,sell_code,description,Батуми,готовых,предзаказ,город,вес,BTC,ք,₴,Br,$,€,Центр,Кутаиси,desc_en
+0,0,18-05-2020 15:43:51,Batumi,3ee37c89bb,[100g] SPAIN HASH,True,1,нет,Батуми,105 гр,0.2248,160556,58850,5382,2200.0,,,,[100g] SPAIN HASH
+1,1,18-05-2020 15:43:51,Batumi,54915c4374,Бупренорфин (аналог суботекса) 0.2 гр.,True,нет,8,Батуми,0.2 гр,0.0099,7105,2606,238,,90.0,,,Buprenorfin (analog suboteksa) 0.2 gr.
+2,2,18-05-2020 15:43:51,Batumi,54915c4374,"MDMA ""цунами удовольствия) 0.5 грамм",True,нет,27,Батуми,0.5 гр,0.0092,6568,2408,220,90.0,,,,"MDMA ""tsunami udovol'stvija) 0.5 gramm"
+3,3,18-05-2020 15:43:51,Batumi,54915c4374,Батуми н-бооом 2 штуки,True,нет,9,Батуми,2 гр,0.0036,2605,955,87,,33.0,,,Batumi n-booom 2 shtuki
+4,4,18-05-2020 15:43:51,Batumi,54915c4374,"""Express Batumi"" марки н-боооом 8 шт.",True,нет,10,Батуми,8 гр,0.0102,7298,2675,245,100.0,,,,"""Express Batumi"" marki n-boooom 8 sht."
+5,5,18-05-2020 15:43:51,Batumi,321e2f622a,❥ Твой! ГАШИШ Марокко 500 грамм ♥,True,нет,1,Батуми,500 гр,0.1582,112990,51992,3774,,,,,❥ Tvoj! GAShISh Marokko 500 gramm ♥
+6,6,18-05-2020 15:43:51,Batumi,321e2f622a,❥Твой! ГАШИШ Марокко 1000 грамм ♥,True,нет,1,Батуми,1000 гр,0.2505,178900,82321,5976,,,,,❥Tvoj! GAShISh Marokko 1000 gramm ♥
+7,7,18-05-2020 15:43:51,Batumi,22610cd7c4,курьер в Батуми,True,1,нет,Батуми,1 гр,0.0093,7298,2675,245,100.0,,,,kur'er v Batumi
+8,8,18-05-2020 15:43:51,Batumi,012f23b5ea,Работа кладмэном. Только шишки.,True,1,нет,Батуми,5 гр,0.0232,18245,6688,612,250.0,,,,Rabota kladmenom. Tol'ko shishki.
+9,9,18-05-2020 15:43:51,Batumi,ce6827deee,Ищу курьера в Грузии!,True,1,нет,Батуми,50 гр,0.0232,18245,6688,612,250.0,,,,Ischu kur'era v Gruzii!
+10,10,18-05-2020 15:43:51,Batumi,ea97036e14,Вакансия оптового курьера на меф,True,нет,1,Батуми,400 гр,1.5465,1094697,401250,36693,15000.0,,,,Vakansija optovogo kur'era na mef
+11,11,18-05-2020 15:43:51,Batumi,16be2c8499,"Вакансия работа курьером на марки! Оплата от 50$ за клад, залог 500$",True,нет,2,Батуми,1000 гр,0.0511,36490,13375,1223,500.0,,True,,"Vakansija rabota kur'erom na marki! Oplata ot 50$ za klad, zalog 500$"
+12,12,18-05-2020 15:45:31,Kutaisi,be97026d1d,MDMA from Europe!!! 1.5g !!! SALE!!! !!! КУТАИСИ !!! BTC SALE 5%!!!!,,1,нет,Кутаиси,1.5 гр,0.0211,15326,5618,514,210.0,,,True,MDMA from Europe!!! 1.5g !!! SALE!!! !!! KUTAISI !!! BTC SALE 5%!!!!
+13,13,18-05-2020 15:45:31,Kutaisi,be97026d1d,Columbia Cocaine VHQ 2g !!! SALE!!! !!! КУТАИСИ !!! BTC SALE 5%!!!!,,6,нет,Кутаиси,2 гр,0.0491,35395,12974,1186,485.0,,,True,Columbia Cocaine VHQ 2g !!! SALE!!! !!! KUTAISI !!! BTC SALE 5%!!!!
+14,14,18-05-2020 15:45:31,Kutaisi,be97026d1d,MDMA from Europe!!! 3g !!! SALE!!! !!! КУТАИСИ !!! BTC SALE 5%!!!!,,8,нет,Кутаиси,3 гр,0.0375,27003,9898,905,370.0,,,True,MDMA from Europe!!! 3g !!! SALE!!! !!! KUTAISI !!! BTC SALE 5%!!!!
+15,15,18-05-2020 15:45:31,Kutaisi,54915c4374,Работа на марки (курьер),,нет,1,Кутаиси,25 гр,0.0205,14596,5350,489,200.0,,,True,Rabota na marki (kur'er)

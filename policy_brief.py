@@ -27,11 +27,17 @@ register_matplotlib_converters()
 #%%
 
 # Import sales and listings
+
+# I only uploaded the csv files in the end, you'll need to change this bit and be careful about
+# dtypes if you want to replicate the analysis, or alternatively re-run clean.py beforehand.
+
 sales = pd.read_excel("DATA/OUTPUT/SALES/EXCEL/sales_20200817_1240.xlsx")
 listings = pd.read_excel(
     "DATA/OUTPUT/LISTINGS/EXCEL/listings_20200817_1240.xlsx", sheet_name="Sheet1"
 )
-daily = pd.read_excel("DATA/OUTPUT/DAILY/daily_sub_stats_cut_20200817_1240.xlsx")
+
+
+# daily = pd.read_excel("DATA/OUTPUT/DAILY/daily_sub_stats_cut_20200817_1240.xlsx")
 time_stamp = "20200817_1240"
 
 # Unit price for sales
